@@ -1,0 +1,35 @@
+{
+    
+    "Legs":[
+		{ "exercise":"Squats", "sets":"4", "reps":"12-10-8-6", "time":10, "id":0},	
+		{ "exercise":"Leg Press", "sets":"4", "reps":"15-12-10-10", "time":10, "id":1},
+		{ "exercise":"Leg Curl", "sets":"3", "reps":"15-10-8", "time":5, "id":2},
+        { "exercise":"Walking Dumbbell Lunges", "sets":"4", "reps":"200 Yards Each Set", "time":12, "id":3}
+	],
+    "Chest":[
+		{ "exercise":"Inclide Barbell Press", "sets":"4", "reps":"12-10-8-6", "time":10, "id":0},	
+		{ "exercise":"Flat Barbell Press", "sets":"4", "reps":"12-10-8-6", "time":10, "id":1},
+		{ "exercise":"Flat Dumbbell Fly", "sets":"3", "reps":"15-10-8", "time":5, "id":2},
+        { "exercise":"Flat Dumbbell Press", "sets":"4", "reps":"15-12-10-8", "time":10, "id":3}
+        
+	],
+    "Back":[
+		{ "exercise":"Bent Barbell Rows", "sets":"4", "reps":"12-10-8-6", "time":10, "id":0},	
+		{ "exercise":"Wide Grip Pull-Ups", "sets":"3", "reps":"To Failure Each Set", "time":5, "id":1},
+		{ "exercise":"Seated Cable Rows", "sets":"4", "reps":"15-12-10-8", "time":10, "id":2},
+        { "exercise":"Reverse Grip Pulldowns", "sets":"4", "reps":"12-10-10-8", "time":7, "id":3},
+        { "exercise":"Wide Grip Pulldowns", "sets":"4", "reps":"12-10-10-8", "time":7, "id":4}
+	],
+    "Shoulders":[
+		{ "exercise":"Military Dumbbell Press", "sets":"4", "reps":"12-10-8-8", "time":10, "id":0},	
+		{ "exercise":"Dumbbell Side Lateral", "sets":"4", "reps":"15-12-10-10", "time":10, "id":1},
+		{ "exercise":"Reverse Dumbbell Fly", "sets":"3", "reps":"15-10-8", "time":5, "id":2},
+        { "exercise":"Dumbbell Front Raises", "sets":"3", "reps":"15-12-10", "time":7, "id":3}
+	],
+    "Arms":[
+		{ "exercise":"Standing Barbell Curl", "sets":"4", "reps":"12-10-8-6", "time":6, "id":0},	
+		{ "exercise":"Standing Cable Push-down", "sets":"4", "reps":"15-12-10-10", "time":6, "id":1},
+		{ "exercise":"Standing Dumbbell Curl", "sets":"3", "reps":"12-10-8", "time":6, "id":2},
+        { "exercise":"Overhead Tricep Extension", "sets":"3", "reps":"12-10-8", "time":6, "id":3}
+	]
+}
